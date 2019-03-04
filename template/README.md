@@ -1,6 +1,4 @@
-# {{ name }}
-
-> {{ description }}
+# mip
 
 ## Project setup
 ```

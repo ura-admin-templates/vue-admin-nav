@@ -1,9 +1,6 @@
 {
-  "name": "{{ name }}",
+  "name": "mip",
   "version": "0.1.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --fix",
     "build": "vue-cli-service build",
